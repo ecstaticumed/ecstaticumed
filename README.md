@@ -2,45 +2,61 @@
 <h3 align="center">Cybersecurity Student | SOC Intern | Aspiring Cloud & AI Security Professional</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecstaticumed&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ecstaticumed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 BS Cyber Security student at **SMI University Karachi**
-- 🔐 Passionate about **Cybersecurity, SOC, IDS/IPS, Cloud & AI Security**
-- 🧠 Hands-on with **Suricata, Wireshark, Python, SQL, Linux**
-- 📊 Interested in **Security Analytics & AI-driven insights**
-- 🚀 Actively building real-world security projects
+- 🔐 Strong interest in **SOC Operations, IDS/IPS, Network Security**
+- 🧠 Hands-on experience with **Suricata, Wireshark, Kali Linux**
+- 🚀 Building real-world security projects
 
 ---
 
 ## 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,sql,java,html" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,java,html,sql" />
 </p>
 
-**Security Tools:**  
-- Suricata (IDS/IPS)  
-- Wireshark  
-- Kali Linux  
-- Packet Tracer  
+**Cybersecurity Tools & Platforms**
+- Suricata (IDS/IPS)
+- Wireshark
+- Kali Linux
+- Packet Tracer
+- Nmap
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Cybersecurity Salary Analysis**  
-> Data-driven insights into cybersecurity job trends using Python & Jupyter  
-👉 https://github.com/ecstaticumed/Cybersecurity_Salary_Analysis_Project  
 
-🔹 **Suricata IDS Project**  
-> Network-based Intrusion Detection System with custom rules  
-👉 https://github.com/ecstaticumed/CodeAlpha-Suricata-IDS  
+### 🛡️ Suricata Intrusion Detection System (IDS)
+![Domain](https://img.shields.io/badge/Domain-Cybersecurity-red)
+![Tool](https://img.shields.io/badge/Tool-Suricata-orange)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black)
 
-🔹 **Basic Network Sniffer**  
-> Packet capturing & protocol analysis using Python  
-👉 https://github.com/ecstaticumed/CodeAlpha_Basic_Network_Sniffer  
+A Network-based IDS implemented using Suricata to monitor live traffic, detect threats, and generate alerts using custom rules.  
+🔗 https://github.com/ecstaticumed/CodeAlpha-Suricata-IDS
+
+---
+
+### 📊 Cybersecurity Salary Analysis
+![Domain](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
+![Tool](https://img.shields.io/badge/Tool-Python-yellow)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+Data-driven analysis of cybersecurity job roles, salaries, and trends using Python and Jupyter Notebook.  
+🔗 https://github.com/ecstaticumed/Cybersecurity_Salary_Analysis_Project
+
+---
+
+### 🌐 Basic Network Sniffer
+![Domain](https://img.shields.io/badge/Domain-Network%20Security-red)
+![Language](https://img.shields.io/badge/Language-Python-green)
+
+A Python-based network sniffer that captures and analyzes packets to understand protocols and traffic behavior.  
+🔗 https://github.com/ecstaticumed/CodeAlpha_Basic_Network_Sniffer
 
 ---
 
@@ -59,4 +75,6 @@
 - 💼 LinkedIn: *linkedin.com/in/ecstaticumed/*
 - 📧 Email: *ecstaticumed@gmail.com*
 
-⭐ **Always learning. Always building.**
+---
+
+⭐ *Always learning. Always securing. Always building.*
