@@ -99,4 +99,4 @@ Data analysis project exploring cybersecurity salary trends using Python.
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/ecstaticumed
-- Email: umedaliphp@gmail.com
+- Email: ecstaticumed@gmail.com
