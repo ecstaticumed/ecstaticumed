@@ -1,82 +1,103 @@
+```md
 <h1 align="center">Hi 👋, I'm Umed Ali</h1>
-<h3 align="center">Cybersecurity Student | SOC Intern | Aspiring Cloud & AI Security Professional</h3>
+
+<h3 align="center">
+SOC Analyst | Cybersecurity | Blue Team | SIEM (Wazuh & Splunk) | Threat Detection | Incident Response
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecstaticumed&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/ecstaticumed">
+    <img src="https://komarev.com/ghpvc/?username=ecstaticumed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BS Cyber Security student at **SMI University Karachi**
-- 🔐 Strong interest in **SOC Operations, IDS/IPS, Network Security**
-- 🧠 Hands-on experience with **Suricata, Wireshark, Kali Linux**
-- 🚀 Building real-world security projects
+
+Cybersecurity student passionate about Security Operations (SOC), Blue Teaming, Threat Detection, and Incident Response. Experienced in building hands-on security labs using SIEM platforms and Windows enterprise environments.
 
 ---
 
-## 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,java,html,sql" />
-</p>
+## 🛠️ Technical Skills
 
-**Cybersecurity Tools & Platforms**
-- Suricata (IDS/IPS)
+**Security Operations**
+- SIEM
+- Threat Detection
+- Incident Response
+- Security Monitoring
+- Log Analysis
+- Windows Event Analysis
+
+**Technologies**
+- Wazuh
+- Splunk
+- Sysmon
+- Suricata IDS
 - Wireshark
-- Kali Linux
-- Packet Tracer
 - Nmap
+- Windows Server
+- Active Directory
+- Kali Linux
+- Ubuntu
+- Python
+- SQL
+- Git
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ Suricata Intrusion Detection System (IDS)
-![Domain](https://img.shields.io/badge/Domain-Cybersecurity-red)
-![Tool](https://img.shields.io/badge/Tool-Suricata-orange)
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black)
+### Windows SOC Detection Lab
+Enterprise SOC lab using Wazuh, Splunk, Sysmon, Active Directory, and Windows Server for security monitoring and threat detection.
 
-A Network-based IDS implemented using Suricata to monitor live traffic, detect threats, and generate alerts using custom rules.  
+🔗 https://github.com/ecstaticumed/Windows-SOC-Detection-Lab
+
+### SSH Brute Force Detection & Prevention
+Python-based solution for detecting SSH brute-force attacks and automatically blocking malicious IP addresses.
+
+🔗 https://github.com/ecstaticumed/SSH-Brute-Force-Detection
+
+### Suricata Intrusion Detection System
+Network Intrusion Detection System using Suricata with custom detection rules and real-time traffic monitoring.
+
 🔗 https://github.com/ecstaticumed/CodeAlpha-Suricata-IDS
 
----
+### Cybersecurity Salary Analysis
+Data analysis project exploring cybersecurity salary trends using Python.
 
-### 📊 Cybersecurity Salary Analysis
-![Domain](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-![Tool](https://img.shields.io/badge/Tool-Python-yellow)
-![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
-Data-driven analysis of cybersecurity job roles, salaries, and trends using Python and Jupyter Notebook.  
 🔗 https://github.com/ecstaticumed/Cybersecurity_Salary_Analysis_Project
 
 ---
 
-### 🌐 Basic Network Sniffer
-![Domain](https://img.shields.io/badge/Domain-Network%20Security-red)
-![Language](https://img.shields.io/badge/Language-Python-green)
+## 🏆 Certifications
 
-A Python-based network sniffer that captures and analyzes packets to understand protocols and traffic behavior.  
-🔗 https://github.com/ecstaticumed/CodeAlpha_Basic_Network_Sniffer
+- Google Cybersecurity Professional Certificate
+- Foundations of Cybersecurity (Google)
+- Connect and Protect: Networks and Network Security (Google)
+- Play It Safe: Manage Security Risks (Google)
+- CS50's Introduction to Cybersecurity (Harvard University)
+- SQL Injection Attacks (EC-Council)
+- SOC for Blue Teaming
+- NMAP Mastery: Ultimate Guide to Network Scanning
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecstaticumed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ecstaticumed&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecstaticumed&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecstaticumed&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecstaticumed&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *linkedin.com/in/ecstaticumed/*
-- 📧 Email: *ecstaticumed@gmail.com*
 
----
-
-⭐ *Always learning. Always securing. Always building.*
+- LinkedIn: https://linkedin.com/in/ecstaticumed
+- Email: umedaliphp@gmail.com
+```
