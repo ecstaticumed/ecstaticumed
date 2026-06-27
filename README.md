@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Umed Ali</h1>
 
 <h3 align="center">
